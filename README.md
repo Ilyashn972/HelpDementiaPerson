@@ -1,9 +1,15 @@
-# kotlin-android-template 🤖
+# helpdementiaperson
 
+![Build](https://github.com/Ilyashn972/HelpDementiaPerson/workflows/Pre%20Merge%20Checks/badge.svg)
 
-Once created don't forget to update the:
-- AndroidManifest ([here](app/src/main/AndroidManifest.xml) and [here](library-android/src/main/AndroidManifest.xml))
-- Package of the source files
+This is your new Kotlin Android Project! Happy hacking!
+
+## Template ToDo list 👣
+
+- [x] Create a new template project.
+- [ ] Choose a [LICENSE](https://github.com/Ilyashn972/HelpDementiaPerson/community/license/new?branch=main).
+- [ ] Set your `ORG_GRADLE_PROJECT_NEXUS_USERNAME`, `ORG_GRADLE_PROJECT_NEXUS_PASSWORD`, `ORG_GRADLE_PROJECT_SIGNING_KEY` and `ORG_GRADLE_PROJECT_SIGNING_PWD` secrets in [Settings](https://github.com/Ilyashn972/HelpDementiaPerson/settings/secrets/actions).
+- [ ] Code some cool apps and libraries 🚀.
 
 ## Features 🎨
 
